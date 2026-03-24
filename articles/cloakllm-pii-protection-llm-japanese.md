@@ -114,3 +114,4 @@ v0.4.0 supports 13 locales: English, Japanese, Chinese, Korean, German, French, 
 - Docs: https://cloakllm.dev
 - PyPI: `pip install cloakllm==0.4.0`
 - npm: `npm install cloakllm@0.4.0`
+
