@@ -6,7 +6,7 @@ topics: ["python", "javascript", "llm", "security", "openai"]
 published: true
 ---
 
-## The Problem
+## The Problem:
 
 Every prompt you send to an LLM provider — OpenAI, Anthropic, Google — is visible in plaintext. Customer names, email addresses, and national IDs end up in provider logs.
 
